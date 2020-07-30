@@ -1,6 +1,8 @@
 [submodule "sub1"]
 	path = sub1
 	url = https://github.com/CruiseYoung/cruise_sub1.git
+	branch = .
 [submodule "sub2"]
 	path = sub2
 	url = https://github.com/CruiseYoung/cruise_sub2.git
+	branch = .
